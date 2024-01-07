@@ -1,0 +1,2 @@
+Simple Gopher server written in Rust. Currently very basic, serving only text files and submenus.
+
